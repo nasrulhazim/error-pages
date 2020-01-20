@@ -1,0 +1,11 @@
+ErrorDocument 400 /var/www/error-pages/400.html
+ErrorDocument 401 /var/www/error-pages/401.html
+ErrorDocument 403 /var/www/error-pages/403.html
+ErrorDocument 404 /var/www/error-pages/404.html
+ErrorDocument 409 /var/www/error-pages/409.html
+ErrorDocument 500 /var/www/error-pages/500.html
+ErrorDocument 502 /var/www/error-pages/502.html
+ErrorDocument 503 /var/www/error-pages/503.html
+ErrorDocument 504 /var/www/error-pages/504.html
+
+# You may want to use generic error page /var/www/error-pages/generic.html
